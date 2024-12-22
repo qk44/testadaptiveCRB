@@ -1,0 +1,35 @@
+.help{
+    height: 150px;
+}
+.section-info-gripp {
+    padding: 80px 0;
+}
+.section-info-gripp .container{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.section-info-gripp .container li{
+    color: #FF5151
+}
+.section-info-gripp .container .block{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.section-info-gripp .container .block .links ul{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.section-info-gripp .container .block .links{
+    padding-left: 48px;
+}
+.section-info-gripp .container .block .point{
+    padding-left: 48px;
+}
+.section-info-gripp .container .block .point ul{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}

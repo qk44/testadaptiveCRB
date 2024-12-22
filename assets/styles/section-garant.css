@@ -1,0 +1,113 @@
+.section-garant {
+    padding: 80px 0;
+    background: #ffffff;
+}
+.section-garant .container {
+    display: flex;
+    flex-direction: column;
+    gap: 46px;
+}
+.section-garant .container .block{
+    display: flex;
+    border-radius: 20px;
+    width: 1400px;
+    height: 260px;
+    background: rgba(19, 171, 123, 0.2);
+    padding: 0 0 0 40px;
+}
+.section-garant .container .block .picture-doctor{
+    background: url("../img_svg/happy-doctor-pointing-against-white-background_1459-6968-Photoroom.png");
+    width: 500px;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    right: 80px;
+    bottom: 146px;
+
+}
+
+.section-garant .container .block .picture-garant{
+    margin-top: 56px;
+    margin-right: 20px;
+}
+.section-garant .container .block .block-info{
+    margin-top: 56px;
+    width: 700px;
+
+}
+.section-garant .container .block .block-info .buttons{
+    display: flex;
+    gap: 20px;
+    margin-top: 34px;
+}
+.section-garant .container .block button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 42px;
+    width: 240px;
+    border-radius: 40px;
+    background: #13AB7B;
+    color: #ffffff;
+}
+.section-garant .container .block button:hover{
+    background: #28926E;
+}
+
+@media (max-width: 440px) {
+    .section-garant {
+        padding: 40px 0;
+        background: #ffffff;
+    }
+    .section-garant .container {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .section-garant .container .block{
+        display: flex;
+        flex-direction: column;
+        border-radius: 20px;
+        width: 300px;
+        height: fit-content;
+        background: rgba(19, 171, 123, 0.2);
+        padding: 20px 20px;
+        align-items: center;
+        justify-content: center;
+    }
+    .section-garant .container .block .picture-doctor{
+        display: none;
+
+    }
+
+    .section-garant .container .block .picture-garant{
+        margin-top: 18px;
+
+    }
+    .section-garant .container .block .block-info{
+        margin-top: 18px;
+        width: 240px;
+
+    }
+    .section-garant .container .block .block-info .buttons{
+        display: flex;
+        gap: 20px;
+        margin-top: 34px;
+        flex-direction: column;
+    }
+    .section-garant .container .block button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 42px;
+        width: 240px;
+        border-radius: 40px;
+        background: #13AB7B;
+        color: #ffffff;
+    }
+    .section-garant .container .block button:hover{
+        background: #28926E;
+    }
+}
+

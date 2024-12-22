@@ -1,0 +1,282 @@
+h1{
+    font-size: 28px;
+    font-weight: 800;
+    color: #13AB7B;
+    transition: 0.3s;
+}
+h1:hover{
+    font-size: 28px;
+    font-weight: 800;
+    color: #28926E;
+    transition: 0.3s;
+}
+.bold-48{
+    font-size: 48px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 60px;
+}
+
+.semi-28{
+    font-size: 28px;
+    font-weight: 600;
+    font-style: normal;
+}
+.semi-32{
+    font-size: 32px;
+    font-weight: 600;
+    font-style: normal;
+}
+.semi-36{
+     font-size: 36px;
+     font-weight: 600;
+     font-style: normal;}
+
+.semi-36-green{
+     font-size: 36px;
+     font-weight: 600;
+     font-style: normal;
+     color: #13AB7B;
+
+}
+.semi-40-green{
+    font-size: 40px;
+    font-weight: 600;
+    font-style: normal;
+    color: #13AB7B;
+
+}
+.light-30{
+    font-size: 30px;
+    font-weight: 300;
+    font-style: normal;
+}
+.light-28{
+    font-size: 28px;
+    font-weight: 300;
+    font-style: normal;
+}
+.reg-16-green{
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    color: #13AB7B;
+  
+}
+.reg-16-green:hover{
+    color: #28926E;
+    
+}
+.semi-14 {
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+}
+.semi-16{
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+}
+.semi-22{
+    font-size: 22px;
+    font-weight: 600;
+    font-style: normal;
+
+}
+.semi-24{
+    font-size: 24px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+.bold-14{
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.reg-16{
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+}
+.reg-14{
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+}
+.reg-13{
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+}
+.reg-12{
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    color: #909090;
+}
+.reg-22{
+     font-size: 22px;
+     font-weight: 400;
+     font-style: normal;
+     color: #13AB7B;
+ }
+.reg-20{
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    color: #13AB7B;
+}
+
+@font-face {
+    font-family: "Open-Sans";
+    src: url("../fonts/OpenSans-VariableFont_wdth,wght.ttf");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 440px) {
+    h1{
+        font-size: 28px;
+        font-weight: 800;
+        color: #13AB7B;
+        transition: 0.3s;
+    }
+    h1:hover{
+        font-size: 28px;
+        font-weight: 800;
+        color: #28926E;
+        transition: 0.3s;
+    }
+    .bold-48{
+        font-size: 32px;
+        font-weight: 700;
+        color: #ffffff;
+        line-height: 36px;
+    }
+
+    .semi-28{
+        font-size: 28px;
+        font-weight: 600;
+        font-style: normal;
+    }
+    .semi-32{
+        font-size: 32px;
+        font-weight: 600;
+        font-style: normal;
+    }
+    .semi-36{
+        font-size: 28px;
+        font-weight: 600;
+        font-style: normal;
+    }
+
+    .semi-36-green{
+        font-size: 24px;
+        font-weight: 600;
+        font-style: normal;
+        color: #13AB7B;
+
+    }
+    .semi-40-green{
+        font-size: 40px;
+        font-weight: 600;
+        font-style: normal;
+        color: #13AB7B;
+
+    }
+    .light-30{
+        font-size: 30px;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .light-28{
+        font-size: 28px;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .reg-16-green{
+        font-size: 16px;
+        font-weight: 400;
+        font-style: normal;
+        color: #13AB7B;
+
+    }
+    .reg-16-green:hover{
+        color: #28926E;
+
+    }
+    .semi-14 {
+        font-size: 14px;
+        font-weight: 600;
+        font-style: normal;
+    }
+    .semi-16{
+        font-size: 16px;
+        font-weight: 600;
+        font-style: normal;
+    }
+    .semi-22{
+        font-size: 22px;
+        font-weight: 600;
+        font-style: normal;
+
+    }
+    .semi-24{
+        font-size: 24px;
+        font-weight: 600;
+        font-style: normal;
+        letter-spacing: 1px;
+    }
+    .bold-14{
+        font-size: 14px;
+        font-weight: 600;
+        font-style: normal;
+    }
+
+    .reg-16{
+        font-size: 16px;
+        font-weight: 400;
+        font-style: normal;
+    }
+    .reg-14{
+        font-size: 14px;
+        font-weight: 400;
+        font-style: normal;
+    }
+    .reg-13{
+        font-size: 13px;
+        font-weight: 400;
+        font-style: normal;
+    }
+    .reg-12{
+        font-size: 12px;
+        font-weight: 400;
+        font-style: normal;
+        color: #909090;
+    }
+    .reg-22{
+        font-size: 22px;
+        font-weight: 400;
+        font-style: normal;
+        color: #13AB7B;
+    }
+    .reg-20{
+        font-size: 20px;
+        font-weight: 400;
+        font-style: normal;
+        color: #13AB7B;
+    }
+}
