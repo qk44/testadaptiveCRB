@@ -164,5 +164,12 @@
         height: fit-content;
         width: 300px;
     }
+    
+    .section-info .container .block .block-info .info-bottom .card{
+        display: flex;
+        gap: 14px;
+        width: 280px;
+        height: fit-content;
+    }
 
 }
